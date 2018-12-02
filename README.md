@@ -1,1 +1,1 @@
-# coinFlip
+Calculator
